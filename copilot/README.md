@@ -1,3 +1,12 @@
+# Copilot
+
+## Requisitos
+* Entorno Cloud9 para ejecutar el workshop
+* [Copilot CLI](https://aws.github.io/copilot-cli/docs/getting-started/install/)
+
+
+## Desarrollo
+
 
 ```
 copilot env init
